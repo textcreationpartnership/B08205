@@ -1,0 +1,838 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short questions and answeres to be learned of such as be ignorant, before they be admitted to the Lords Supper. Whereunto are added certaine obseruations necessarie to be vsed of euerie Christian. / By Giles Whiting..</title>
+            <author>Whiting, Giles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1593</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08205</idno>
+            <idno type="STC">STC 25433.7</idno>
+            <idno type="STC">ESTC S95794</idno>
+            <idno type="EEBO-CITATION">71305221</idno>
+            <idno type="OCLC">ocm 71305221</idno>
+            <idno type="VID">183945</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183945)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2214:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short questions and answeres to be learned of such as be ignorant, before they be admitted to the Lords Supper. Whereunto are added certaine obseruations necessarie to be vsed of euerie Christian. / By Giles Whiting..</title>
+                  <author>Whiting, Giles.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Orwin, for Robert Dexter,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1593..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's device (McK. 273 [alpha]) on t.p; initial.</note>
+                  <note>Signature: A⁸.</note>
+                  <note>Imperfect: stained, print bleeding and show-through, with considerable loss of text.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183945:1"/>
+            <pb facs="tcp:183945:1"/>
+            <p>SHORT Queſtions and anſweres to be learned of ſuch as be <hi>Ignorant, before they be ad<g ref="char:EOLhyphen"/>mitted</hi> to the Lords ſupper.</p>
+            <p>Whereunto are added certain obſeruations neceſſarie to be vſed of euerie Chriſtian.</p>
+            <p>By <hi>Giles Whiting.</hi>
+            </p>
+            <figure>
+               <q>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ACE PLENTY. BY WISDOME PEACE</q>
+               <p>TO</p>
+               <figDesc>printer's device of Thomas Orwin</figDesc>
+            </figure>
+            <p>LONDON, Printed by Thomas Orwin, for Robert Dexter. 1593.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:183945:2"/>
+            <pb n="3" facs="tcp:183945:2"/>
+            <head>
+               <hi>Short queſtions and an<g ref="char:EOLhyphen"/>ſweres,</hi> to be learned of ſuch as <hi>be ignorant; before they be</hi> admitted to the Lords <hi>Supper.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat Religion doe you profeſſe?</hi> Chriſtian Religion.<note place="margin">Act. 11. 26.</note>
+            </p>
+            <p>
+               <hi>What is Chriſtian Religion?</hi> It is the true profeſſion, belee<g ref="char:EOLhyphen"/>uing,<note place="margin">Rom 10 9. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Act. 4. 12.</note> and following of thoſe things, which are commanded and taught vs by God in the holy Scriptures.</p>
+            <p>
+               <hi>What call you the holy Scriptures?</hi> The word of God contained in the bookes<note place="margin">2. Tim. 3. 16.</note> of the old and new teſtament.</p>
+            <p>
+               <hi>Doth this Scripture or word of God containe in it all poynts of true Religion, and euerie thing neceſſarie for the ſaluation of a Christian?</hi> Yea.</p>
+            <p>
+               <hi>Tell me then from this Scripture, how many</hi>
+               <note place="margin">2. Tim 3. 16. 17. Deut. 4. 35. 8<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6. 4</note> 
+               <hi>Gods be there?</hi> One.</p>
+            <p>
+               <hi>What is God?</hi> An euerlaſting Spirit, immortall, inviſible,<note place="margin">Eph. 4. 6. 1. Tim. 1. 17. Iohn. 4. 24.</note> moſt ſtrong, onely wiſe.</p>
+            <p>
+               <pb n="4" facs="tcp:183945:3"/>
+               <hi>How many perſons are there?</hi>
+            </p>
+            <p>Three.<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3. 16. 17.</note>
+            </p>
+            <p>
+               <hi>Which be they?</hi>
+            </p>
+            <p>The Father, the Sonne, and the holy Ghoſt.<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 28. 19. Iohn. 5. 7. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 19. 1. 7. &amp; 29. 3. 4. 5. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 1. 19. &amp; 10. 18. Heb. 11 3. Gen 1. 1. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 11. 3.</note>
+            </p>
+            <p>
+               <hi>How is God knowne?</hi>
+            </p>
+            <p>By his workes, word and ſpirite.</p>
+            <p>
+               <hi>Who created the world?</hi>
+            </p>
+            <p>God.</p>
+            <p>
+               <hi>Whereof did he create it?</hi>
+            </p>
+            <p>Of nothing, and that by his word.</p>
+            <p>
+               <hi>Who made you?</hi>
+            </p>
+            <p>God the Father.<note place="margin">Gen. 1. 27. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cor. 8. 6.</note>
+            </p>
+            <p>
+               <hi>How did he create you?</hi>
+            </p>
+            <p>In holineſſe and righteouſneſſe.</p>
+            <p>
+               <hi>Why were you thus created?</hi>
+               <note place="margin">Ephe. 4. 24. Gen. 1. 27. Rom. 11. 36.</note>
+            </p>
+            <p>To glorifie him.</p>
+            <p>
+               <hi>Are you able to doe this of your ſelfe?</hi>
+            </p>
+            <p>No.<note place="margin">Rom. 3. 10, 11. 12. Rom. 3 23. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ioh. 1. 8. 10.</note>
+            </p>
+            <p>
+               <hi>Why ſo?</hi>
+            </p>
+            <p>Becauſe I am a ſinner.</p>
+            <p>
+               <hi>How come you to be a ſinner, ſeeing you were ſo perfectly created?</hi>
+            </p>
+            <p>By the fall of Adam.<note place="margin">Rom. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 19.</note>
+            </p>
+            <p>
+               <hi>What was his ſinne?</hi>
+            </p>
+            <p>Diſobedience againſt God, in eating of the<note place="margin">Gen. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Rom. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12.</note> forbidden fruite.</p>
+            <p>
+               <hi>How commeth i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to paſſe, that you are be<g ref="char:EOLhyphen"/>come a ſinner in Adam?</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:183945:3"/>Becauſe he was the Father of all mankinde.<note place="margin">Rom. 5 12.</note>
+            </p>
+            <p>
+               <hi>How doe you proue that you are a ſinner?</hi>
+            </p>
+            <p>By the teſtimonie of mine own conſcience,<note place="margin">Rom. 2. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> Gal. 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> and by the lawe of God.</p>
+            <p>
+               <hi>What is the lawe of God?</hi>
+            </p>
+            <p>A perfect rule of righteouſnes commaund<g ref="char:EOLhyphen"/>ing<note place="margin">Pſal. 19. 7.</note> good, and forbidding euill: the ſumme whereof is contained in the commaunde<g ref="char:EOLhyphen"/>ments.</p>
+            <p>
+               <hi>How many be there?</hi>
+            </p>
+            <p>Tenne.<note place="margin">Exod 34. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <hi>Rehearſe them?</hi>
+               <note place="margin">Exod. 20. 10</note>
+            </p>
+            <p>Then God ſpake all theſe words and ſaid. I am the Lord thy God, &amp;c.</p>
+            <p>
+               <hi>Are theſe wordes,</hi> I am the Lord thy God, &amp;c. <hi>A commandement or preface?</hi>
+            </p>
+            <p>A preface to the whole law.<note place="margin">Leuit. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2. 9.</note>
+            </p>
+            <p>
+               <hi>How be the commaundements deuided?</hi>
+            </p>
+            <p>Into two tables or parts.<note place="margin">Exod. 31. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp; 34. 26<g ref="char:punc">▪</g>
+               </note>
+            </p>
+            <p>
+               <hi>How many be there of the first table?</hi>
+            </p>
+            <p>Foure.</p>
+            <p>
+               <hi>How many of the ſecond?</hi>
+            </p>
+            <p>Sixe.</p>
+            <p>
+               <hi>What doe the commaundements of the first table teach you?</hi>
+            </p>
+            <p>My duetie towards God.<note place="margin">Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 22. 35.</note>
+            </p>
+            <p>
+               <hi>What doe the commaundements of the ſe<g ref="char:EOLhyphen"/>cond table teach you?</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:183945:4"/>My duetie towards my neighbour.<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 22. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note>
+            </p>
+            <p>
+               <hi>Are you to vſe the commaundements as prayers?</hi>
+            </p>
+            <p>No, becauſe they bee no petitions but com<g ref="char:EOLhyphen"/>mandements.</p>
+            <p>
+               <hi>Are you able to keep them, without breaking any one of them, in thought, word, or deede?</hi>
+            </p>
+            <p>No.</p>
+            <p>
+               <hi>Why?</hi>
+            </p>
+            <p>Becauſe I am readie &amp; diſpoſed by nature,<note place="margin">Eph. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Rom. 3. 10.</note> to offend both God and my neighbour.</p>
+            <p>
+               <hi>To what end then ſerueth the lawe?</hi>
+               <note place="margin">Rom. 3. 10. Gal. 3. 24. Pro 2, 1<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pſal 119. 10<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>To ſhew vs our miſerie, and ſo leade vs to Chriſt: and to bee a rule euer after for the well ordering of our liues.</p>
+            <p>
+               <hi>What is the puniſhment for the breach of the law?</hi>
+            </p>
+            <p>Eternall deſtruction both of body &amp; ſoule.<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 6. 23.</note>
+            </p>
+            <p>
+               <hi>Is there no way to eſcape it, and be ſaued?</hi>
+            </p>
+            <p>Yes.</p>
+            <p>
+               <hi>How?</hi>
+            </p>
+            <p>By Ieſus Chriſt.<note place="margin">Act. 4. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <hi>Who is this Christ?</hi>
+            </p>
+            <p>The ſonne of God, perfect God and perfect<note place="margin">Mat. 3. 17. Rom. 9. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Heb. 1. 6.</note> man.</p>
+            <p>
+               <hi>Could there no other meane, nor perſon bee found in Heauen or Earth, to ſaue you, but the ſonne of God must doe <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:183945:4"/>No verely.</p>
+            <p>
+               <hi>Must he needes be God and man?</hi>
+            </p>
+            <p>Yea.</p>
+            <p>
+               <hi>Why?</hi>
+            </p>
+            <p>Firſt, becauſe hee muſt die for vs, and God<note place="margin">Heb. 9. 22.</note> cannot die, therefore he muſt bee man.</p>
+            <p>Secondly, he muſt ouercome death, which<note place="margin">Heb. 2. 14.</note> being onley man, he could not, therefore he muſt alſo be God.</p>
+            <p>
+               <hi>How did he ſaue you?</hi>
+            </p>
+            <p>As he was man <note n="*" place="margin">1. Pet. 1. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp; 2. 22. Heb. 4. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> perfectly righteous, he per<g ref="char:EOLhyphen"/>formed the perfect obedience of the lawe, and ſatiſfied the <note n="*" place="margin">1 Pet. 2. 24. &amp; 4. 1. 1. Pet. 3. 18.</note> iuſtice of God for mee. And as he was God, he ouercame death, and rayſed vp his bodie the third day.</p>
+            <p>
+               <hi>Are all men partakers of this benefite of re<g ref="char:EOLhyphen"/>demption purchaſed by Christ?</hi>
+               <note place="margin">Mat. 25. 46. &amp; 7. 23. Reue. 22. 15.</note>
+            </p>
+            <p>No, there are a number that ſhall haue their parte in hell with the diuel and his Angels.</p>
+            <p>
+               <hi>Who are they that haue their parte in the death of Christ?</hi>
+               <note place="margin">Iohn. 3. 16. Gall 3. 26.</note>
+            </p>
+            <p>Onely ſuch as truely beleeue.</p>
+            <p>
+               <hi>What is faith?</hi>
+            </p>
+            <p>Faith, is <note n="*" place="margin">Heb. 10. 22. Rom. 4. 20. 21.</note> a full aſſurance of <note n="*" place="margin">Iohn. 1. 12.</note> my ſaluation in Ieſus Chriſt <note n="*" place="margin">Act. 4. 12.</note> alone.</p>
+            <p>
+               <hi>Hath euery man this faith in himſelfe?</hi>
+            </p>
+            <p>No, for it is the <note n="*" place="margin">2. Theſ. 3. 2. Phil. 1. 29.</note> gift of God, and not of <note n="*" place="margin">Mat. 16. 17.</note> na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>
+               <pb n="8" facs="tcp:183945:5"/>
+               <hi>How is faith gotten?</hi>
+            </p>
+            <p>By the outward hearing of the worde of<note place="margin">Rom. 10. 17. 2. Cor. 1. 21. Acts. 2. 41. 2. Cor. 4. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Acts. 16. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Iohn. 8. 31. &amp; 6. 17. 1. Pet. 2. 2.</note> God preached, and the inward working of the Spirite.</p>
+            <p>
+               <hi>How is it ſtrengthned &amp; increaſed in you?</hi>
+            </p>
+            <p>By the ſame preaching of the word, and the vſe of the Sacraments<g ref="char:punc">▪</g> and prayer.</p>
+            <p>
+               <hi>How ſhall a man know whether he haue this true and ſauing faith, or no?</hi>
+            </p>
+            <p>By the fruites and markes thereof.</p>
+            <p>
+               <hi>What be the fruites of faith?</hi>
+            </p>
+            <p>A hatred of all ſinne, a continuall care to<note place="margin">Act<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2. 37. Heb. 11. 7. Pſal. 119. 113. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Iohn. 314.</note> pleaſe God in the dueties commaunded, an vn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained loue to Gods word and to his people.</p>
+            <p>
+               <hi>Rehearſe the ſumme of your Faith?</hi>
+            </p>
+            <p>I beleeue in God the Father, &amp;c.</p>
+            <p>
+               <hi>How many partes be there of this Creede?</hi>
+            </p>
+            <p>Two.</p>
+            <p>
+               <hi>Which be they?</hi>
+            </p>
+            <p>The firſt is of GOD, the ſecond is of the Church.</p>
+            <p>
+               <hi>Let vs now come to the meanes of ſtrength<g ref="char:EOLhyphen"/>ning our faith, as of the Sacraments and prayer: and first what is a Sacrament?</hi>
+               <note place="margin">Rom. 4. 11.</note>
+            </p>
+            <p>A Sacrament is a ſeale and pledge of thoſe benefits of my ſaluation, which I receiue by Chriſt.</p>
+            <p>
+               <pb n="9" facs="tcp:183945:5"/>
+               <hi>How many Sacraments bee there in the Church of God?</hi>
+            </p>
+            <p>Two.<note place="margin">Mat. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp; 26. 26.</note>
+            </p>
+            <p>
+               <hi>Which be they?</hi>
+            </p>
+            <p>Baptiſme, and the Supper of the Lord.<note place="margin">1. Cor. 11. 23.</note>
+            </p>
+            <p>
+               <hi>Who ordayned them?</hi>
+               <note place="margin">Mat. 26. 26. 1. Cor. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>The Lord Ieſus.</p>
+            <p>
+               <hi>To what end?</hi>
+            </p>
+            <p>To ſtrengthen our faith, and to further our repentance.</p>
+            <p>
+               <hi>How many things are to bee conſidered in a Sacrament?</hi>
+            </p>
+            <p>Two.</p>
+            <p>
+               <hi>Which be they?</hi>
+               <note place="margin">Gen. 17. 11. Rom. 4. 11.</note>
+            </p>
+            <p>The ſigne, and the thing ſignified.</p>
+            <p>
+               <hi>In Baptiſme, which is the ſigne that may be ſeene?</hi>
+               <note place="margin">Acts. 8. 26.</note>
+            </p>
+            <p>Water.</p>
+            <p>
+               <hi>What is the thing ſignified?</hi>
+               <note place="margin">Iohn. 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>The waſhing away of my ſins by the blood of Chriſt.</p>
+            <p>
+               <hi>How is your Faith ſtrongthened by Bap<g ref="char:EOLhyphen"/>tiſme?</hi>
+            </p>
+            <p>By Baptiſme I am receiued into the familie<note place="margin">Mark. 16. 16.</note> and congregation of the Lorde<g ref="char:punc">▪</g> and am thereby fully aſſured, that both my ſinnes<note place="margin">Act. 2. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> are forgiuen me, and the puniſhment due to the ſame.</p>
+            <p>
+               <pb n="10" facs="tcp:183945:6"/>
+               <hi>What doe you profeſſe in Baptiſme?</hi>
+            </p>
+            <p>To die vnto ſinne, and to liue vnto righte<g ref="char:EOLhyphen"/>ouſneſſe.<note place="margin">Rom. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <hi>In the Supper of the Lorde, which bee the Signes that may be ſeene?</hi>
+            </p>
+            <p>Bread and Wine.<note place="margin">Mat. 26. 26. 27. 1. Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11. 23. 24. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <hi>What doe they ſignifie?</hi>
+            </p>
+            <p>The bodie and blood of Chriſt.</p>
+            <p>
+               <hi>How is your Faith ſtrengthned by the Sup<g ref="char:EOLhyphen"/>per of the Lord?</hi>
+            </p>
+            <p>By the Supper of the Lorde my Faith is ſtrengthned, that as I receiue the bread and wine into my body to become mine: ſo doth my ſoule receiue withall Ieſus Chriſt<g ref="char:punc">▪</g> with all the benefites of his death to bee wholy mine.</p>
+            <p>
+               <hi>Is the bread and wine turned into the natu<g ref="char:EOLhyphen"/>rall bodie and blood of Christ, fleſh, blood, and bone?</hi>
+            </p>
+            <p>No, the bread and wine of their owne na<g ref="char:EOLhyphen"/>ture are not changed, but in vſe they differ from other common bread &amp; wine, becauſe they be appointed of God to bee ſignes of the bodie and blood of Chriſt.</p>
+            <p>
+               <hi>Why then doth Christ ſay<g ref="char:punc">▪</g> This is my body?</hi>
+            </p>
+            <p>It is a figuratiue ſpeech vſuall in the Scrip<g ref="char:EOLhyphen"/>ture, as circumciſion is called the couenant,<note place="margin">Gen. 10. 10. 11 Exod. 12. 11.</note> the Lambe is called the paſſeouer: and yet
+<pb n="11" facs="tcp:183945:6"/>
+it is not the couenant, nor the paſſeouer, but a ſigne of it.</p>
+            <p>
+               <hi>How doe you eate Chriſts bodie, and drinke his blood?</hi>
+            </p>
+            <p>Spiritually, and by Faith.<note place="margin">Iohn. 6. 63.</note>
+            </p>
+            <p>
+               <hi>Are all perſons without exception to bee ad<g ref="char:EOLhyphen"/>mitted to the Supper of the Lord?</hi>
+            </p>
+            <p>No.</p>
+            <p>
+               <hi>Who are not to be admitted?</hi>
+            </p>
+            <p>Children, Fooles, Mad-men, Ignorant per<g ref="char:EOLhyphen"/>ſons,<note place="margin">1. Cor. 11. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Tit. 3. 10.</note> knowne heretikes, open and notorious ſinners not repenting.</p>
+            <p>
+               <hi>What must he doe that will <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> worthily to the ſupper of the Lord?</hi>
+            </p>
+            <p>He muſt proue and examine himſelfe.<note place="margin">1. Cor. 11. 28. 29.</note>
+            </p>
+            <p>
+               <hi>Wherein muſt he examine himſelfe?</hi>
+            </p>
+            <p>Firſt, what knowledge he hath in the prin<g ref="char:EOLhyphen"/>ciples of Religion, and eſpecially in the matter of the Sacrament.</p>
+            <p>Secondly, whether hee hath true <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith in Ieſus Chriſt, or no.</p>
+            <p>Thirdly, whether he be penitent and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rie for his ſinnes paſt, purpoſing to leaue them,<note place="margin">Mat. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 23. Rom. 12. 18. Heb. 12. 14.</note> and to liue godlie, endeuouring himſelfe to be in brotherly loue &amp; charity with al men.</p>
+            <p>
+               <hi>Then it ſeemeth there bee ſome, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they come, yet they looſe the benefite of this communion in themſelues?</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:183945:7"/>Yea.</p>
+            <p>
+               <hi>Who be they?</hi>
+            </p>
+            <p>Such as come not in Faith, and are not grie<g ref="char:EOLhyphen"/>ued for their ſinnes paſt, as hypocrites, ciuill men, Church Papiſts, priuie enemies to Gods word, and ſo many of the godlie as<note place="margin">1. Cor. 11. 30. 2. Chro. 30. 18</note> come not ſufficiently prepared, procure a puniſhment.</p>
+            <p>
+               <hi>What is the other helpe you haue to increaſe Faith?</hi>
+            </p>
+            <p>Prayer.</p>
+            <p>
+               <hi>What is prayer?</hi>
+            </p>
+            <p>Prayer, is a ſpirituall action of Faith wherein<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 8. 26. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 1. 6. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Iohn. 5. 14.</note> we require of God in the name of Chriſt, all things neceſſarie, his glorie and our com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>
+               <hi>To whome must you Pray?</hi>
+            </p>
+            <p>To God only.</p>
+            <p>
+               <hi>In whoſe name?</hi>
+               <note place="margin">Pſal. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 14. 15<g ref="char:punc">▪</g>
+               </note>
+            </p>
+            <p>In the name of Chriſt.</p>
+            <p>
+               <hi>Then you may not pray to Saincts, or An<g ref="char:EOLhyphen"/>gels,</hi>
+               <note place="margin">Iohn. 16. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> 
+               <hi>or to God in the name of a Saint or Angell?</hi>
+            </p>
+            <p>No.</p>
+            <p>
+               <hi>Wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>?</hi>
+            </p>
+            <p>Becauſe there is neither commandement, promiſe, nor example in the Scripture for it.</p>
+            <p>
+               <hi>How must you pray?</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:183945:7"/>As Chriſt hath taught me, ſaying:<note place="margin">Mat. 6. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>Our Father which art, &amp;c.</p>
+            <p>
+               <hi>How many petitions be there in this prayer?</hi>
+            </p>
+            <p>Sixe, three concerning the glorie of God, and three our owne neceſſities.</p>
+            <p>
+               <hi>What are theſe words, Our Father which are in heauen?</hi>
+            </p>
+            <p>A preface or introduction to the prayer.</p>
+            <p>
+               <hi>What are theſe words: For thine is the king<g ref="char:EOLhyphen"/>dome, the power and glorie for euer?</hi>
+            </p>
+            <p>The concluſion of the prayer.</p>
+            <p>
+               <hi>What doe you owe to God for all his benefites?</hi>
+            </p>
+            <p>Thankeſgiuing.<note place="margin">Pſal. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. 12. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note>
+            </p>
+            <p>
+               <hi>Is it enough that you thanke him with your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lips alone?</hi>
+               <note place="margin">Eph. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10. Deut. 8. 3. 6. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>No, but I muſt be obedient to his lawes and commaundements: which grace the Lord graunt.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_observations">
+            <pb facs="tcp:183945:8"/>
+            <head>Sundry neceſſarie obſeruations for a Christian.</head>
+            <list>
+               <item>1. THat weekeepe a narrowe <note n="a" place="margin">1. Pet. 1. 15.</note> watch ouer our hearts, words, and deedes continually.</item>
+               <item>2. That with all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are the <note n="b" place="margin">Epheſ. 5. 16. Col. 4. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> time bee redee<g ref="char:EOLhyphen"/>med, which hath been idly, careleſly, &amp; vn<g ref="char:EOLhyphen"/>profitably ſpent.</item>
+               <item>3. That once in the day at the leaſt pri<g ref="char:EOLhyphen"/>uate <note n="c" place="margin">Col. 4. 2.</note> prayer and meditation be vſed.</item>
+               <item>4. That care bee had <note n="d" place="margin">Luk. 14, 15, 16.</note> to doe, and re<g ref="char:EOLhyphen"/>ceiue good in companie.</item>
+               <item>5. That our family be with diligence and regarde <note n="e" place="margin">Deu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. &amp; 6. 7. Gen. 18. 19.</note> inſtructed, <note n="f" place="margin">Pro. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> watched ouer and gouerned.</item>
+               <item>6. That no more time or care be beſtow<g ref="char:EOLhyphen"/>eding matters of the world the muſt needs.<note place="margin">g Col. 3. 2.</note>
+               </item>
+               <item>7. That we ſtirre vp our ſelues to <note n="h" place="margin">Heb. 13. 16. G<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 6. 10.</note> libera<g ref="char:EOLhyphen"/>lity to Gods ſaints.</item>
+               <item>8. That wee giue not the leaſt bridle to wandring <note n="i" place="margin">Col. 3. 5. Eph. 5. 3, 4.</note> luſts and affections.</item>
+               <item>9. That we prepar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our ſelues to <note n="k" place="margin">Mat. 16. 24.</note> beare the croſſe, by what meanes it ſhall pleaſe God to exerciſe vs.</item>
+               <item>10. That we beſtowe ſome time not one<g ref="char:EOLhyphen"/>ly in <note n="l" place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3, 4. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. Lam<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> mourning for our owne ſinnes, but al<g ref="char:EOLhyphen"/>ſo for the ſinnes of the time and age where<g ref="char:EOLhyphen"/>in we liue.</item>
+               <item>
+                  <pb facs="tcp:183945:8"/>11. That wee <note n="m" place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 2. 13.</note> look daily for the com<g ref="char:EOLhyphen"/>ming of our Lorde Ieſus Chriſt, for our <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll deliuerance out of this life.</item>
+               <item>12. That we vſe (as we ſhall haue oppor<g ref="char:EOLhyphen"/>tunitie, at leaſt as we ſhall haue neceſſity) to <note n="n" place="margin">Iam <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </note> acquaint our ſelues with ſome godly and faithfull perſon, with whom we may confer of our chriſtia<g ref="char:cmbAbbrStroke">̄</g> eſtate, &amp; open our doubtes, to the quickning vp of Gods graces in vs.</item>
+               <item>13. That wee <note n="o" place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Philip. <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Reuel. <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> obſerue the departure of men out of this life, their mortality, the vani<g ref="char:EOLhyphen"/>tie &amp; alteration of things belowe, the more to contemne the world, &amp; to continew our longing after the life to come. And that we meditate and mu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e often of our own death, and going out of this life how we muſt lie in the graue, all our glorie put off, which will ſerue to beate downe the pride of life that is in vs.</item>
+               <item>14. That wee <note n="p" place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> reade ſomewhat daily of the holy ſcriptures, for the further increaſe<note place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> of our knowledge.</item>
+               <item>15. That we <note n="q" place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> enter into couenant with the Lord to ſtriue againſt all ſin, &amp; eſpecial<g ref="char:EOLhyphen"/>ly againſt the ſpeciall ſins &amp; corruptions of our hearts and liues, wherein we haue moſt diſhonoured the Lord, and haue raiſed vp moſt guiltines to our own conſciences, and
+<pb facs="tcp:183945:9"/>
+that we carefully ſee our couenant bee kept and continued.</item>
+               <item>16. That we <note n="r" place="margin">1. Pet. 1. 14. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pet. 2. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 21 22.</note> marke how ſinne dieth and is weakened in vs, and that we turne not to our olde ſinnes againe, but wiſely <note n="ſ" place="margin">Mat. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 8.</note> auoide all occaſions to ſinne.</item>
+               <item>17. That we <note n="t" place="margin">Theſ. 5. 22. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Reue. 24.</note> fall not from our firſt loue, but continue ſtill our affectio<g ref="char:cmbAbbrStroke">̄</g>s to the liking of Gods word, &amp; al the holy exerciſes of re<g ref="char:EOLhyphen"/>ligion, <note n="u" place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 19.</note> diligently hearing it, &amp; <note n="w" place="margin">Iam 1. 22. Rom. 2. 13.</note> faithfully practiſing the ſame in our liues and conuer<g ref="char:EOLhyphen"/>ſations: that we <note n="x" place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 4. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7.</note> prepare our ſelues before we come, &amp; meditate and confer of that we heare, either by our ſelues or with other: &amp; ſo marke our daily profiting in religion.</item>
+               <item>18. That we be often occupied in <note n="y" place="margin">Eph. 5 20. Pſal. 116 12 13. &amp; 118. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> medi<g ref="char:EOLhyphen"/>tating on Gods benefites and workes, and ſound forth his praiſes for the ſame.</item>
+               <item>19. That we <note n="z" place="margin">Phil. 1. 23. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 4. 7. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> exerciſe our faith by taking comfort and delight in the great benefite of our redemption by Chriſt, and the fruition of Gods preſence, in his glorious and bleſ<g ref="char:EOLhyphen"/>ſed kingdome.</item>
+               <item>20. Laſtly, that wee make not theſe ho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> practiſes of repentance common in time, nor vſe them for courſe.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:183945:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
